@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/know-me-better/static/css/main.ba872b2d.css",
+    "main.js": "/know-me-better/static/js/main.e7d85a5c.js",
+    "index.html": "/know-me-better/index.html",
+    "main.ba872b2d.css.map": "/know-me-better/static/css/main.ba872b2d.css.map",
+    "main.e7d85a5c.js.map": "/know-me-better/static/js/main.e7d85a5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba872b2d.css",
+    "static/js/main.e7d85a5c.js"
+  ]
+}
