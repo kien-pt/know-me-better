@@ -8,9 +8,9 @@ body {
 }
 
 #container {
-  width: calc(100vw - 32px);
+  width: calc(100vw - 64px);
   height: calc(100vh - 32px);
-  padding: 16px;
+  padding: 16px 32px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -36,4 +36,11 @@ body {
   font-weight: bold;
   color: #2A0A5E;
   box-shadow: rgba(99, 99, 99, 0.8) 0px 2px 8px 0px;
+  cursor: pointer;
+}
+
+#version {
+  right: 8px;
+  bottom: 16px;
+  position: absolute;
 }
